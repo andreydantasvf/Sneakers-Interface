@@ -1,7 +1,7 @@
 ## Sneakers Interface
 <h3 align="center">Layout </h3>
   <p align="center">
-    <img alt="Layout" src="https://res.cloudinary.com/andreydantas/image/upload/v1659983404/Sneakers-Interface/Sneakers_Interface_r2g4o5.gif" widht="400px" height="400px">
+    <img alt="Layout" src="https://raw.githubusercontent.com/andreydantasvf/Sneakers-Interface/main/images/Sneakers-Interface.gif" widht="400px" height="400px">
   </p>
 
 ## 📜 Sobre
